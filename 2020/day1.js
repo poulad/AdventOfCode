@@ -1,4 +1,4 @@
-// https://adventofcode.com/2020/day/1
+// Question: https://adventofcode.com/2020/day/1
 
 import { readFileSync } from "fs";
 

@@ -1,3 +1,5 @@
+// Question: https://adventofcode.com/2020/day/2
+
 import { readFileSync } from "fs";
 
 export function findValidPasswords() {
